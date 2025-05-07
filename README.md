@@ -31,8 +31,7 @@ This script automates spacebar pressing for casino-style games using AutoHotkey 
 ---
 
 ## 📖 Additional Guide
-
-Check out the full Elin casino gameplay guide here:  
+  
 📄 [Elin Notes & Guide I Make (Google Doc)](https://docs.google.com/document/d/1jMifIwSvQHlhra6CqjAjKBuCrleyYlN1FRARq5AYFtM/edit?usp=sharing)
 
 ---
