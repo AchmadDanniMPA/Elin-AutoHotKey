@@ -5,7 +5,7 @@ F6:: {
     running := !running
     if running {
         SoundBeep(1500)
-        SetTimer(pressSpace, 750)
+        SetTimer(pressSpace, 650)   ; If yours doesn't work change this between 650-750
     } else {
         SoundBeep(1000)
         SetTimer(pressSpace, 0)
@@ -14,7 +14,7 @@ F6:: {
 
 pressSpace() {
     Send("{Space down}")
-    Sleep(750)
+    Sleep(650)                      ; If yours doesn't work change this between 650-750
     Send("{Space up}")
 }
 

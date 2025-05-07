@@ -1,12 +1,12 @@
 # Casino Throwing Macro (AHK v2.0)
 
-This script automates spacebar pressing for casino-style games using AutoHotkey v2.0. Designed for convenience and hands-free gameplay, it repeats the spacebar action every 750ms with a simple toggle.
+This script automates spacebar pressing for casino-style games using AutoHotkey v2.0. Designed for convenience and hands-free gameplay, it repeats the spacebar action every 650ms with a simple toggle.
 
 ---
 
 ## 🎮 Features
 
-- 🔁 Auto-presses the **Spacebar** every 750ms
+- 🔁 Auto-presses the **Spacebar** every 650ms
 - ⏯️ Toggle on/off with **F6**
 - 📤 Clean exit with **Ctrl+X**
 - 🔔 Beep feedback for start (high) / stop (low)
@@ -30,10 +30,14 @@ This script automates spacebar pressing for casino-style games using AutoHotkey 
 
 ---
 
-## 📖 Additional Guide
+### ⚠️ Troubleshooting
+If the script doesn’t work as expected in your game:
+- Open the script file in a text editor
+- Try adjusting the delay value (e.g., change `650` to something between `650–750` or whatever works best for your system)
 
-Check out the full Elin casino gameplay guide here:  
-📄 [Elin Notes & Guide I Make (Google Doc)](https://docs.google.com/document/d/1jMifIwSvQHlhra6CqjAjKBuCrleyYlN1FRARq5AYFtM/edit?usp=sharing)
+### 📄 Elin Guide
+I don't know if this will help anyone but this is the list of notes I compiled into one:
+[Elin Notes & Guide (Google Doc)](https://docs.google.com/document/d/1jMifIwSvQHlhra6CqjAjKBuCrleyYlN1FRARq5AYFtM/edit?usp=sharing)
 
 ---
 
