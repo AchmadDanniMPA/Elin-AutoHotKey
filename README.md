@@ -23,8 +23,8 @@ This script automates spacebar pressing for casino-style games using AutoHotkey 
 ## 📝 TL;DR — How to Use
 
 1. Install [AutoHotkey v2.0](https://www.autohotkey.com/download/2.0/?C=M;O=A)
-2. Save the script as `casino_spacebar.ahk`
-3. Double-click to run
+2. Download the file
+3. Double-click the file to run
 4. Press **F6** to start/stop automation
 5. Press **Ctrl+X** to exit the script
 
@@ -36,7 +36,7 @@ If the script doesn’t work as expected in your game:
 - Try adjusting the delay value (e.g., change `650` to something between `650–750` or whatever works best for your system)
 
 ### 📄 Elin Guide
-I don't know if this will help anyone but this is the list of notes I compiled into one:
+I don't know if this will help anyone, but this is the list of notes I compiled into one:
 [Elin Notes & Guide (Google Doc)](https://docs.google.com/document/d/1jMifIwSvQHlhra6CqjAjKBuCrleyYlN1FRARq5AYFtM/edit?usp=sharing)
 
 ---
